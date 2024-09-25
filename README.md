@@ -2,7 +2,7 @@
 
 # CSS Animation Bootcamp
 
-## Transitions
+## Transitions Bootcamp
 
 ### Hover Button
 Gör en knapp som på ```:hover``` gör en mjuk övergång på följande egenskaper: 

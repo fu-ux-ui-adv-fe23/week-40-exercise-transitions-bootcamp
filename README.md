@@ -1,3 +1,5 @@
+![screen](poster.png)
+
 # CSS Animation Bootcamp
 
 ## Transitions

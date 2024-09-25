@@ -1,0 +1,73 @@
+body {
+    background: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 0;
+    height: 100vh;
+}
+
+.card {
+    width: 11rem;
+    height: 16rem;
+    border-radius: 3px;
+    
+    
+    /* Fortsätt... */
+}
+
+/* Få varje individuellt kort att "spreada" */
+section:hover .card:nth-child(1)  { 
+    background: rgb(255, 9, 9); 
+
+
+}
+
+section:hover .card:nth-child(2)  { 
+    background: rgb(255, 147, 24); 
+
+
+}
+
+section:hover .card:nth-child(3)  { 
+    background: rgb(250, 250, 48); 
+
+
+}
+
+section:hover .card:nth-child(4)  { 
+    background: rgb(87, 255, 65); 
+
+
+}
+
+section:hover .card:nth-child(5)  { 
+    background: rgb(55, 207, 136); 
+
+
+}
+
+section:hover .card:nth-child(6)  { 
+    background: rgb(94, 235, 253); 
+
+
+}
+
+section:hover .card:nth-child(7)  { 
+    background: rgb(106, 116, 252); 
+
+
+}
+
+section:hover .card:nth-child(9)  { 
+    background: rgb(243, 179, 211); 
+
+
+}
+
+section:hover .card:nth-child(8)  { 
+    background: rgb(199, 119, 245); 
+
+
+}

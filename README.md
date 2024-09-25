@@ -28,11 +28,11 @@ För att trigga animeringen togglar du CSS-classen ```.open``` på en ```<nav>``
 #### Levelup
 Varje menyalternativ ska slidea in med en delay för maximal coolhetsfaktor.
 
-![screen](/examples/02_slidein_menu/screen.png)
+![screen](/övningar/02_slidein_menu/screen.png)
 
 
 ### Pride cards
 
 Gör en kortlek med 9 kort som vid hover av body sprider ut sig i en solfjäder.
 
-![screen](/examples/03_cardspread/screen.png)
+![screen](/övningar/03_cardspread/screen.png)

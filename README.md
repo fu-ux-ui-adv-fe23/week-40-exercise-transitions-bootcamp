@@ -13,7 +13,7 @@ Gör en knapp som på ```:hover``` gör en mjuk övergång på följande egenska
 
 Lägg gärna till fler saker som ändras för att testa vad som fungerar med transitions.
 
-<br>
+--------
 
 ### Slide in menu
 
@@ -35,6 +35,7 @@ Varje enskilt menyalternativ ska slidea in med en individuell delay för maximal
 
 ![screen](/övningar/02_slidein_menu/screen.png)
 
+--------
 
 ### Pride cards
 

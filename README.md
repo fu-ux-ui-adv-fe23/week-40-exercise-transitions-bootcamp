@@ -42,3 +42,9 @@ Varje enskilt menyalternativ ska slidea in med en individuell delay för maximal
 Gör en kortlek med 9 kort som vid hover av section sprider ut sig i en solfjäder.
 
 ![screen](/övningar/03_cardspread/screen.png)
+
+---------
+
+### Freestyla själv
+
+Skapa lite egna transitions som aktiveras antingen av hover, eller med hjälp av att lägga till en klass med JavaScript. Få saker att flytta på sig, rotera, experimentera lite med Cubic-Bezier eller utforska transform-origin. Kanske vill du skapa din egen hamburgermeny? Det är upp till dig själv!
